@@ -4,7 +4,7 @@
       <el-header>
         <transition name="el-zoom-in-top">
           <div v-show="show" class="transition-box">
-            <h3>S C U D P O W E R</h3>
+            <h3>S C U D   P O W E R</h3>
           </div>
         </transition>
       </el-header>
