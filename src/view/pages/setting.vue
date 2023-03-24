@@ -4,7 +4,7 @@
       <el-header>
         <transition name="el-zoom-in-top">
           <div v-show="show" class="transition-box">
-            <h3>L V S H I H A O</h3>
+            <h3>S C U D P O W E R</h3>
           </div>
         </transition>
       </el-header>
@@ -15,7 +15,7 @@
               基于开源项目修改，如有问题请联系小倪
             </span>
             <div>
-              <a href="http://www.scud.cn/zh">SCUD POWER</a>---<a href="http://www.scud.cn/zh">坚毅号</a>
+              <a href="http://www.scud.cn/zh">海外事业部</a>---<a href="http://www.scud.cn/zh">坚毅号</a>
             </div>
           </div>
         </transition>
