@@ -2,7 +2,7 @@
   <div class="chatHome">
     <div class="chatLeft" style="width:24%" v-show="showPersonList">
       <div class="title">
-        <h2>飞毛腿动力科技海外事业部</h2>
+        <h2>飞毛腿-海外事业部</h2>
       </div>
       <div class="online-person" style="margin-top: 5%;"> 
         <el-row :gutter="24">
