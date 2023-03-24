@@ -15,7 +15,7 @@
               基于开源项目修改，如有问题请联系小倪
             </span>
             <div>
-              <a href="https://space.bilibili.com/326625155?spm_id_from=333.337.0.0">BliBili</a>---<a href="https://github.com/202252197/ChatGPT_JCM">GitHub</a>
+              <a href="http://www.scud.cn/zh">SCUD POWER</a>---<a href="http://www.scud.cn/zh">坚毅号</a>
             </div>
           </div>
         </transition>
